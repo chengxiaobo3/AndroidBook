@@ -5,3 +5,4 @@
 [AndroidAndroid神兵利器](book/Android神兵利器.md)<br>
 [AndroidAndroid进阶之光](book/Android进阶之光.md)<br>
 [AndroidAndroid进阶解密](book/Android进阶解密.md)<br>
+[小灰的算法之旅](book/漫画小灰算法.md)<br>
